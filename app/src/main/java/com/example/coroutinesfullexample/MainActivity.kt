@@ -24,7 +24,6 @@ class MainActivity : AppCompatActivity() {
         }
 
 //        coroutinesException()
-
     }
 
     private suspend fun fetchData() {
